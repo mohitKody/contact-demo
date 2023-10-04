@@ -28,6 +28,7 @@ dependencies:
   csv: ^5.0.2
   external_path: ^1.0.3
   path_provider:
+  dio: ^5.3.3
 
 
 dev_dependencies:
